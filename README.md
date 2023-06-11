@@ -21,6 +21,10 @@ The repository includes the following projects:
 
 The projects in this repository represent coursework completed for the CS-451 Computational Intelligence course. Each project focuses on a specific technique or algorithm, allowing students to gain hands-on experience and practical understanding in the field of computational intelligence.
 
+## Acknowledgement
+
+Special Thanks to my partner Ronit Kumar Kataria, [LinkedIn](https://www.linkedin.com/in/ronit-kumar-9ba678a7/) and [GitHub](https://github.com/ronit450)
+
 ## How to Use This Repository
 
 To explore the projects in this repository, follow these steps:
