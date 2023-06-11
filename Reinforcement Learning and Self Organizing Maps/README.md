@@ -3,8 +3,7 @@
 This project focuses on implementing a basic reinforcement learning agent that navigates in a grid world. The objective is to train the agent to maximize its reward by finding the optimal path while avoiding obstacles.
 
 ## Objective
-T
-he objective of this project is to implement reinforcement learning and self organizing maps to solve specific problems and gain practical experience in computational intelligence techniques.
+The objective of this project is to implement reinforcement learning and self organizing maps to solve specific problems and gain practical experience in computational intelligence techniques.
 
 ## Part 1: Training the Reinforcement Learning Agent
 
