@@ -5,7 +5,7 @@ This project focuses on implementing a basic reinforcement learning agent that n
 ## Objective
 The objective of this project is to implement reinforcement learning and self organizing maps to solve specific problems and gain practical experience in computational intelligence techniques.
 
-## Part 1: Training the Reinforcement Learning Agent
+## Question 1: Training the Reinforcement Learning Agent
 
 In this question, you will train a reinforcement learning agent to navigate a grid world. The agent's goal is to maximize its reward by finding the optimal path while avoiding obstacles. The agent will learn the value function through episodic learning, updating the value of each encountered state based on the outcome of the episode. During the episodes, actions will be selected using Boltzman distribution. Different configurations of the grid will be tested to ensure the agent's generality.
 
